@@ -6,6 +6,13 @@ Manually curated collection of some useful repositories
 * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture): Demonstrates examples for implementing Android architecture with MVP, Clean or MVVM.
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries.
 
+## Git & Github
+* [Standard Readme](https://github.com/RichardLitt/standard-readme): A useful guide and template for a readme
+
+## Security
+* [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A list for hackers, pentesters, and people who wants to know more about security
+* [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): A checklist for security when developing API endpoints
+
 ## Swift
 * [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) : an exhaustive and maintained style guide centered on readability for print and web, with overarching goals for clarity, consistency and brevity when writing in swift.  
 
