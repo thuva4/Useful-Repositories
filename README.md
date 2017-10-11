@@ -19,8 +19,18 @@ Manually curated collection of some useful repositories
 
 ## React
 
-[React Patterns](https://github.com/chantastic/reactpatterns.com): A collection of design patterns for React developers.
-[Redux Data Structures](https://github.com/adrienjt/redux-data-structures): Reducer factory functions for common data structures.
+* [React Patterns](https://github.com/chantastic/reactpatterns.com): A collection of design patterns for React developers.
+
+
+* [Redux Data Structures](https://github.com/adrienjt/redux-data-structures): Reducer factory functions for common data structures.
+
+* [react-dates](https://github.com/airbnb/react-dates): An easily internationalizable, mobile-friendly datepicker library for the web.
+
+* [downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components.
+
+## Code Katas
+
+* [kata-catalog](https://github.com/ardalis/kata-catalog): A curated catalog of coding katas maintained by Steve Ardalis.
 
 ## NodeJS 
 
