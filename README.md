@@ -17,6 +17,10 @@ Manually curated collection of some useful repositories
 
 * [AudioKit](https://github.com/audiokit/AudioKit) : an audio synthesis, processing and analysis platform.
 
+* [BlueJay](https://github.com/steamclock/bluejay) : a simple framework for building reliable Bluetooth LE apps.
+
+* [Music-Player](https://github.com/bpolat/Music-Player) : a Fully functional music player which is written in swift.
+
 ## React
 
 * [React Patterns](https://github.com/chantastic/reactpatterns.com): A collection of design patterns for React developers.
@@ -44,4 +48,9 @@ Manually curated collection of some useful repositories
 
 [Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap): A mind map which spans the depth and width of machine learning techniques and concepts. 
 
+## Frameworks
+* [Propeller](https://github.com/digicorp/propeller): a front-end responsive framework based on Google's Material Design Standards & Bootstrap
+
+## Javascript
+* [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
 
