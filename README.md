@@ -57,3 +57,6 @@ Manually curated collection of some useful repositories
 ## Vue
 * [Awesome-Vue](https://github.com/vuejs/awesome-vue): An awesome list for the MVVM framework Vue.js
 
+## Neural Network and Deep Learning
+* [Neural-networks-and-Deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code Samples from the book "Neural Network and Deep learning" written by mnielsen (Reference: http://neuralnetworksanddeeplearning.com)
+
