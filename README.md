@@ -54,3 +54,6 @@ Manually curated collection of some useful repositories
 ## Javascript
 * [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
 
+## Vue
+* [Awesome-Vue](https://github.com/vuejs/awesome-vue): An awesome list for the MVVM framework Vue.js
+
