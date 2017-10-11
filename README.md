@@ -22,3 +22,16 @@ Manually curated collection of some useful repositories
 [React Patterns](https://github.com/chantastic/reactpatterns.com): A collection of design patterns for React developers.
 [Redux Data Structures](https://github.com/adrienjt/redux-data-structures): Reducer factory functions for common data structures.
 
+## NodeJS 
+
+[Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs): An awesome list of NodeJS packages and resources. 
+
+## ElectronJS
+
+[Awesome-Electron](https://github.com/sindresorhus/awesome-electron): An awesome list for creating apps with ElectronJS.
+
+## Machine Learning 
+
+[Machine Learning Mind Map](https://github.com/dformoso/machine-learning-mindmap): A mind map which spans the depth and width of machine learning techniques and concepts. 
+
+
