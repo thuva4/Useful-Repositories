@@ -73,3 +73,4 @@ Manually curated collection of some useful repositories
 
 ## Algorithms
 * [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+* [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
