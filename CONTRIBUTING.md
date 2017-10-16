@@ -27,7 +27,8 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
       * [Description] (Repository_link)
 
 3. Commit, Push and Thank you for sharing!
-
+5. Add Your Name to Contributor List in CONTRIBUTING.md.
+      * [Your Name] (Github Link)
+      
 4. Star The Repository
-
 5. Happy Hacktoberfest
