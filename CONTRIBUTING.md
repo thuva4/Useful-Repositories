@@ -16,8 +16,6 @@ Bugs
 ----
 
 If you found an error, mistype or any other flawback in the project, please report about it using [issues](https://github.com/Thuva4/Useful-Repositories/issues).
-The more details you provide, the easier it can be reproduced and the faster can be fixed.
-Unfortunately, sometimes the bug can be only reproduced in your project or in your environment, so maintainers cannot reproduce it. In this case we believe you can fix the bug and send us the fix.
 
 *******
 ### How to send a Pull request .
@@ -27,8 +25,8 @@ Unfortunately, sometimes the bug can be only reproduced in your project or in yo
       * [Description] (Repository_link)
 
 3. Commit, Push and Thank you for sharing!
-5. Add Your Name to Contributor List in CONTRIBUTING.md.
+4. Add Your Name to Contributor List in CONTRIBUTING.md.
       * [Your Name] (Github Link)
       
-4. Star The Repository
-5. Happy Hacktoberfest
+5. Star The Repository
+6. Happy Hacktoberfest
