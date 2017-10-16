@@ -67,3 +67,5 @@ Manually curated collection of some useful repositories
 ## Neural Network and Deep Learning
 * [Neural-networks-and-Deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code Samples from the book "Neural Network and Deep learning" written by mnielsen (Reference: http://neuralnetworksanddeeplearning.com)
 
+## Algorithms
+* [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
