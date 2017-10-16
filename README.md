@@ -13,6 +13,10 @@ Manually curated collection of some useful repositories
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A list for hackers, pentesters, and people who wants to know more about security
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): A checklist for security when developing API endpoints
 
+## Scala
+* [Awesome-scala](https://github.com/lauris/awesome-scala)
+
+
 ## Swift
 * [Ray Wenderlich Swift Style Guide](https://github.com/raywenderlich/swift-style-guide) : an exhaustive and maintained style guide centered on readability for print and web, with overarching goals for clarity, consistency and brevity when writing in swift.  
 
