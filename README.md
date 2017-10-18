@@ -21,6 +21,7 @@ Manually curated collection of some useful repositories
 
 ## Scala
 * [Awesome-scala](https://github.com/lauris/awesome-scala)
+* [Scala-Best-Practices](https://github.com/alexandru/scala-best-practices)
 
 
 ## Swift
