@@ -19,6 +19,10 @@ Manually curated collection of some useful repositories
 * [Awesome C/C++](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. 
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
 
+## Python
+* [Awesome-Python](https://github.com/vinta/awesome-python): A curated list of awesome Python frameworks, libraries, software and resources
+* [awesome-python](https://github.com/uhub/awesome-python): A curated list of awesome Python frameworks, libraries and software.
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python): 📚 Freely available programming books for python.
 
 ## Scala
 * [Awesome-scala](https://github.com/lauris/awesome-scala): A community driven list of useful Scala libraries, frameworks and software.
@@ -80,5 +84,5 @@ Manually curated collection of some useful repositories
 * [Neural-networks-and-Deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning): Code Samples from the book "Neural Network and Deep learning" written by mnielsen (Reference: http://neuralnetworksanddeeplearning.com)
 
 ## Algorithms
-* [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms)
+* [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms): A curated list of awesome places to learn and/or practice algorithms.
 * [awesome-competitive-programming](https://github.com/lnishan/awesome-competitive-programming): A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
