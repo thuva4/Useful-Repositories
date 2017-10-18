@@ -13,6 +13,12 @@ Manually curated collection of some useful repositories
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A list for hackers, pentesters, and people who wants to know more about security
 * [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist): A checklist for security when developing API endpoints
 
+## C++
+* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1): 📚 Freely available programming books
+* [Awesome C/C++](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. 
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++
+
+
 ## Scala
 * [Awesome-scala](https://github.com/lauris/awesome-scala)
 
