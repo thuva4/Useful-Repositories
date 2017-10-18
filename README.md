@@ -8,6 +8,7 @@ Manually curated collection of some useful repositories
 
 ## Git & Github
 * [Standard Readme](https://github.com/RichardLitt/standard-readme): A useful guide and template for a readme
+* [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
 
 ## Security
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking): A list for hackers, pentesters, and people who wants to know more about security
