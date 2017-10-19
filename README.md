@@ -92,3 +92,10 @@ Manually curated collection of some useful repositories
 
 ## Angular-CLI
 * [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
+
+## Java
+* [Official Java SE Documentation](https://docs.oracle.com/javase/9/)
+* [JUnit](http://junit.org/junit5/): A popular unit testing framework for Java
+* [Mockito](http://site.mockito.org/): A tasty mocking framework for unit tests in Java
+* [Apache Maven](https://maven.apache.org/): A popular build tool
+* [Gradle](https://gradle.org/): A popular build tool
