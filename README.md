@@ -89,6 +89,6 @@ Manually curated collection of some useful repositories
 
 ## Angular
 * [Angular](https://github.com/angular/angular): One framework. Mobile & desktop. 
-
-## Angular-CLI
 * [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
+* [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
+* [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
