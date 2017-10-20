@@ -76,3 +76,10 @@ Manually curated collection of some useful repositories
 * [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
 * [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
+* [NgRx repo's](https://github.com/ngrx): A collection of repositories to work with reactive programming using Angular, with make easier to implement Redux.
+* [Angular Firebase](https://github.com/angular/angularfire2): A library with make easier to integrate Angular (also Ionic) with Firebase. At the momment, it has the implementation to Firestore, Realtime Database and Authenticated (Firebase resources).
+
+## Ionic
+* [Ionic](https://github.com/ionic-team/ionic): the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
+* [Ionic-CLI](https://github.com/ionic-team/ionic-cli) CLI tool for Ionic.
+* [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) AExample App created with Ionic by Ionic Team. This project is just to show off Ionic components in a real-world application.
