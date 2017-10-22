@@ -35,6 +35,7 @@ Manually curated collection of some useful repositories
 * [AudioKit](https://github.com/audiokit/AudioKit): an audio synthesis, processing and analysis platform.
 * [BlueJay](https://github.com/steamclock/bluejay): a simple framework for building reliable Bluetooth LE apps.
 * [Music-Player](https://github.com/bpolat/Music-Player): a Fully functional music player which is written in swift.
+* [Swift30Projects](https://github.com/soapyigu/Swift30Projects): 30 mini Swift Apps for self-study
 
 ## React
 * [Awesome React](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
@@ -57,6 +58,8 @@ Manually curated collection of some useful repositories
 
 ## Frameworks
 * [Propeller](https://github.com/digicorp/propeller): a front-end responsive framework based on Google's Material Design Standards & Bootstrap
+* [Play Framework](https://github.com/playframework/playframework): The High Velocity Web Framework For Java and Scala
+* [beego](https://github.com/astaxie/beego): beego is an open-source, high-performance web framework for the Go programming language.
 
 ## Javascript
 * [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
@@ -73,6 +76,8 @@ Manually curated collection of some useful repositories
 
 ## Angular
 * [Angular](https://github.com/angular/angular): One framework. Mobile & desktop. 
-* [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
+* [Angular-CLI](https://github.com/angular/angular-cli): CLI tool for Angular. 
 * [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
+* [Material 2 for Angular](https://github.com/angular/material2): Material Design components for Angular
+* [Materialize Design for Angular](https://github.com/sherweb/ng2-materialize): Angular wrap around Materialize library
