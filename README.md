@@ -43,6 +43,7 @@ Manually curated collection of some useful repositories
 * [Redux Data Structures](https://github.com/adrienjt/redux-data-structures): Reducer factory functions for common data structures.
 * [react-dates](https://github.com/airbnb/react-dates): An easily internationalizable, mobile-friendly datepicker library for the web.
 * [downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components.
+* [gatsby](https://github.com/gatsbyjs/gatsby): Blazing fast static site generator for React
 
 ## Code Katas
 * [kata-catalog](https://github.com/ardalis/kata-catalog): A curated catalog of coding katas maintained by Steve Ardalis.
@@ -63,6 +64,7 @@ Manually curated collection of some useful repositories
 
 ## Javascript
 * [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
+* [Napa.js](https://github.com/Microsoft/napajs): Napa.js: a multi-threaded JavaScript runtime
 
 ## Vue
 * [Awesome-Vue](https://github.com/vuejs/awesome-vue): An awesome list for the MVVM framework Vue.js
@@ -81,3 +83,4 @@ Manually curated collection of some useful repositories
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
 * [Material 2 for Angular](https://github.com/angular/material2): Material Design components for Angular
 * [Materialize Design for Angular](https://github.com/sherweb/ng2-materialize): Angular wrap around Materialize library
+* [Angular Fullpage](https://github.com/meiblorn/ngx-fullpage): Angular fullPage.js port library
