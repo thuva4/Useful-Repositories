@@ -35,6 +35,7 @@ Manually curated collection of some useful repositories
 * [AudioKit](https://github.com/audiokit/AudioKit): an audio synthesis, processing and analysis platform.
 * [BlueJay](https://github.com/steamclock/bluejay): a simple framework for building reliable Bluetooth LE apps.
 * [Music-Player](https://github.com/bpolat/Music-Player): a Fully functional music player which is written in swift.
+* [Swift30Projects](https://github.com/soapyigu/Swift30Projects): 30 mini Swift Apps for self-study
 
 ## React
 * [Awesome React](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
@@ -42,6 +43,7 @@ Manually curated collection of some useful repositories
 * [Redux Data Structures](https://github.com/adrienjt/redux-data-structures): Reducer factory functions for common data structures.
 * [react-dates](https://github.com/airbnb/react-dates): An easily internationalizable, mobile-friendly datepicker library for the web.
 * [downshift](https://github.com/paypal/downshift): Primitives to build simple, flexible, WAI-ARIA compliant enhanced input React components.
+* [gatsby](https://github.com/gatsbyjs/gatsby): Blazing fast static site generator for React
 
 ## Code Katas
 * [kata-catalog](https://github.com/ardalis/kata-catalog): A curated catalog of coding katas maintained by Steve Ardalis.
@@ -57,9 +59,12 @@ Manually curated collection of some useful repositories
 
 ## Frameworks
 * [Propeller](https://github.com/digicorp/propeller): a front-end responsive framework based on Google's Material Design Standards & Bootstrap
+* [Play Framework](https://github.com/playframework/playframework): The High Velocity Web Framework For Java and Scala
+* [beego](https://github.com/astaxie/beego): beego is an open-source, high-performance web framework for the Go programming language.
 
 ## Javascript
 * [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
+* [Napa.js](https://github.com/Microsoft/napajs): Napa.js: a multi-threaded JavaScript runtime
 
 ## Vue
 * [Awesome-Vue](https://github.com/vuejs/awesome-vue): An awesome list for the MVVM framework Vue.js
@@ -73,13 +78,18 @@ Manually curated collection of some useful repositories
 
 ## Angular
 * [Angular](https://github.com/angular/angular): One framework. Mobile & desktop. 
-* [Angular-CLIr](https://github.com/angular/angular-cli): CLI tool for Angular. 
+* [Angular-CLI](https://github.com/angular/angular-cli): CLI tool for Angular. 
 * [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
 * [NgRx repo's](https://github.com/ngrx): A collection of repositories to work with reactive programming using Angular, with make easier to implement Redux.
 * [Angular Firebase](https://github.com/angular/angularfire2): A library with make easier to integrate Angular (also Ionic) with Firebase. At the momment, it has the implementation to Firestore, Realtime Database and Authenticated (Firebase resources).
+* [Material 2 for Angular](https://github.com/angular/material2): Material Design components for Angular
+* [Materialize Design for Angular](https://github.com/sherweb/ng2-materialize): Angular wrap around Materialize library
+* [Angular Fullpage](https://github.com/meiblorn/ngx-fullpage): Angular fullPage.js port library
 
 ## Ionic
 * [Ionic](https://github.com/ionic-team/ionic): the open-source mobile app development framework that makes it easy to build top quality native and progressive web apps with web technologies.
 * [Ionic-CLI](https://github.com/ionic-team/ionic-cli) CLI tool for Ionic.
 * [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) AExample App created with Ionic by Ionic Team. This project is just to show off Ionic components in a real-world application.
+
+
