@@ -49,7 +49,8 @@ Manually curated collection of some useful repositories
 * [kata-catalog](https://github.com/ardalis/kata-catalog): A curated catalog of coding katas maintained by Steve Ardalis.
 
 ## NodeJS 
-* [Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs): An awesome list of NodeJS packages and resources. 
+* [Awesome-NodeJS](https://github.com/sindresorhus/awesome-nodejs): An awesome list of NodeJS packages and resources.
+* [Fastify](https://github.com/fastify/fastify): Fast and low overhead web framework, for Node.js  
 
 ## ElectronJS
 * [Awesome-Electron](https://github.com/sindresorhus/awesome-electron): An awesome list for creating apps with ElectronJS.
@@ -65,6 +66,7 @@ Manually curated collection of some useful repositories
 ## Javascript
 * [TypedJS](https://github.com/mattboldt/typed.js): a JavaScript Typing Animation Library
 * [Napa.js](https://github.com/Microsoft/napajs): Napa.js: a multi-threaded JavaScript runtime
+* [Prettier](https://github.com/prettier/prettier): Prettier is an opinionated code formatter.
 
 ## Vue
 * [Awesome-Vue](https://github.com/vuejs/awesome-vue): An awesome list for the MVVM framework Vue.js
