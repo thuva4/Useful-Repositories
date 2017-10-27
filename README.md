@@ -6,6 +6,11 @@ Manually curated collection of some useful repositories
 * [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture): Demonstrates examples for implementing Android architecture with MVP, Clean or MVVM.
 * [Android UI/UX Libraries](https://github.com/wasabeef/awesome-android-ui): A curated list of awesome Android UI/UX libraries.
 
+## Bootstrap
+* [Core Framework](https://github.com/twbs/bootstrap): Bootstrap is an HTML, CSS, and JavaScript framework.
+* [Bootstrap for Sass](https://github.com/twbs/bootstrap-sass): bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.
+* [React-Bootstrap](https://github.com/react-bootstrap/react-bootstrap): Bootstrap 3 components built with React..
+
 ## Git & Github
 * [Standard Readme](https://github.com/RichardLitt/standard-readme): A useful guide and template for a readme
 * [Awesome Git](https://github.com/dictcp/awesome-git): A curated list of amazingly awesome Git tools, resources and shiny things
