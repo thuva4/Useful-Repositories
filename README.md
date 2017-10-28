@@ -95,4 +95,6 @@ Manually curated collection of some useful repositories
 * [Ionic-CLI](https://github.com/ionic-team/ionic-cli) CLI tool for Ionic.
 * [Ionic Conference App](https://github.com/ionic-team/ionic-conference-app) AExample App created with Ionic by Ionic Team. This project is just to show off Ionic components in a real-world application.
 
+## Kotlin
+* [Kotlin](https://github.com/JetBrains/kotlin): The Kotlin programming language.
 
