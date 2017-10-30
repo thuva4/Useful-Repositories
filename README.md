@@ -87,6 +87,7 @@ Manually curated collection of some useful repositories
 ## Angular
 * [Angular](https://github.com/angular/angular): One framework. Mobile & desktop. 
 * [Angular-CLI](https://github.com/angular/angular-cli): CLI tool for Angular. 
+* [Awesome Angular](https://github.com/AngularClass/awesome-angular): A curated list of awesome Angular resources by @AngularClass which has useful information an angular developer must go through. This has almost everything linked.
 * [Admin template based on Angular 4](https://github.com/akveo/ngx-admin): Admin dashboard template based onAngular 4+, Bootstrap 4. 
 * [Chat Application using RxJS and Angular 2](https://github.com/ng-book/angular2-rxjs-chat): AExample Chat Application using RxJS and Angular 2
 * [NgRx repo's](https://github.com/ngrx): A collection of repositories to work with reactive programming using Angular, with make easier to implement Redux.
